@@ -5,6 +5,9 @@ title: Home
 
 ## Welcome everyone to my spiffy site!
 
+Normalize absolutely nothing. 
+Allow yourself to revel in the bizarre nature of the living universe.
+
 
 #### Here are some example pages:
 
